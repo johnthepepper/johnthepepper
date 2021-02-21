@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there :hand:
+### Cyber security :computer:
 
-<!--
-**johnthepepper/johnthepepper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Twitter [![alt text][1.1]][1]
+## Projects: 
+### MagicSpace :alien: , memba :snake:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- icons -->
+[1.1]: http://i.imgur.com/tXSoThF.png
+<!-- update these accordingly -->
+
+[1]: https://www.twitter.com/t_montager
