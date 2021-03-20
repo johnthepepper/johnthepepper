@@ -3,7 +3,7 @@
 
 ### Twitter [![alt text][1.1]][1]
 ## Projects: 
-### MagicSpace :alien: , memba :snake:
+### memba :snake:
 
 
 
