@@ -2,6 +2,7 @@
 <h3 align="center">An Open source Developer</h3>
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
