@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ALSM</h1>
+<h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">An Open source Developer</h3>
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
